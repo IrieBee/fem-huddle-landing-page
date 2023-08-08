@@ -1,1 +1,32 @@
-# fem-huddle-landing-page
+# Huddle landing page with a single introductory section
+ 
+## Overview
+
+This is a solution to the Huddle landing page with a single introductory section challenge from Frontend Mentor.
+
+### Screenshot
+
+![screenshot](https://github.com/ltsyBitsy/fem-huddle-landing-page/blob/main/images/screenshot.jpg)
+
+## Built with
+
+  * HTML
+  * CSS
+  * Flexbox
+
+### What I learned
+
+
+## Links
+
+* Solution URL: https://github.com/ltsyBitsy/fem-huddle-landing-page
+* Live Site URL: https://ltsybitsy.github.io/fem-huddle-landing-page/
+
+## Useful resources
+
+
+## Acknowledgements
+
+* Odin project
+* Kevin Powell
+* Frontend Mentor
