@@ -16,6 +16,8 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ### What I learned
 
+* Use Ionic for social media icons.
+*
 
 ## Links
 
