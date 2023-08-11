@@ -62,6 +62,10 @@ button {
     box-shadow: 0.1em 0.1em 0.75em var(--clr-violet-dark);
 }
 
+ion-icon {
+    font-size: var(--fs-m);
+}
+
 .attribution { 
     font-size: 0.625rem; 
     margin-bottom: 0.5em;
