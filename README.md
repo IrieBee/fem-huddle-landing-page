@@ -24,9 +24,11 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ## Useful resources
 
+* https://ionic.io/ionicons/
 
 ## Acknowledgements
 
+* ionic
 * Odin project
 * Kevin Powell
 * Frontend Mentor
