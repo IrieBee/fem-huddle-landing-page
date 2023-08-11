@@ -2,12 +2,14 @@
     --clr-violet: hsl(257, 40%, 49%);
     --clr-magenta: hsl(300, 69%, 71%);
 
+    --clr-violet-dark: hsl(257, 40%, 19%);
+
     --ff-accent: 'Poppins', sans-serif;
     --ff-main:'Open Sans', sans-serif;
 
-    --fs-m: 1rem;
+    --fs-m: 1.1rem;
     --fs-s: 0.75rem;
-    --fs-l: 1.25rem;
+    --fs-l: 2.25rem;
 
     --fw-m: 400;
     --fw-l: 600;
@@ -34,17 +36,28 @@ header {
 main {
     display: flex;
     align-items: center;
-    gap: 2.5em;
+    gap: 3.5em;
     max-width: 90%;
 }
 
 h1 {
     font-family: var(--ff-accent);
     font-size: var(--fs-l);
+    font-weight: var(--fw-l);
 }
 
 p {
     line-height: 1.5;
+    letter-spacing: 0.0275em;
+    padding: 1.5em 0;
+}
+
+button {
+    font-size: var(--fs-m);
+    color: var(--clr-violet);
     letter-spacing: 0.025em;
-    padding: 1em 0;
+    padding: 1em 3.75em;
+    border-radius: 2em;
+    border-style: none;
+    box-shadow: 0.1em 0.1em 0.75em var(--clr-violet-dark);
 }
