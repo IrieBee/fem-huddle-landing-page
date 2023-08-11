@@ -67,6 +67,7 @@ button {
     color: var(--clr-violet);
     letter-spacing: 0.025em;
     padding: 1em 3.75em;
+    border: 0.05em solid white;
     border-radius: 2em;
     border-style: none;
     box-shadow: 0.1em 0.1em 0.75em var(--clr-violet-dark);
@@ -86,6 +87,10 @@ ion-icon {
 
 button:hover, ion-icon:hover {
     background-color: var(--clr-magenta);
+    transition-duration: .5s;
+}
+
+ion-icon:hover {
     border: 0.05em solid var(--clr-magenta);
 }
 
