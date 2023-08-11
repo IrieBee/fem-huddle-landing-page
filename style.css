@@ -1,0 +1,20 @@
+:root {
+    --clr-violet: hsl(257, 40%, 49%);
+    --clr-magenta: hsl(300, 69%, 71%);
+
+    --ff-main: 'Poppins', sans-serif;
+    --ff-accent: font-family: 'Open Sans', sans-serif;
+
+    --fs-m: 1rem;
+    --fs-s: 0.75rem;
+    --fs-l: 1.25rem;
+
+    --fw-m: 400;
+    --fw-l: 600;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
