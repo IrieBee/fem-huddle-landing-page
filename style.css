@@ -121,4 +121,7 @@ ion-icon:hover {
         width: 100%;
         margin-bottom: 3em;
     }
+    section {
+        text-align: center;
+    }
 }
