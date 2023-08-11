@@ -16,7 +16,7 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ### What I learned
 
-* Need to use aria-label="..." for links without text.
+* Need to use aria-label="..." for links without text and alt="..." for icons.
 * Ionic for social media icons. Need to add link at the end of html.
 * Position: absolute for social media icons.
 * Background-size. For desktop used cover, for mobile - contain.
@@ -30,6 +30,7 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ## Useful resources
 
+* https://ionic.io/docs/accessibility/alt-text
 * https://ionic.io/ionicons/
 * https://www.w3schools.com/cssref/css3_pr_background-size.php
 * https://www.w3schools.com/cssref/playdemo.php?filename=playcss_background-size&preval=cover
