@@ -16,8 +16,9 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ### What I learned
 
-* Use Ionic for social media icons.
-*
+* Ionic for social media icons.
+* Position: absolute for social media icons.
+* Background-size. For desktop used cover, for mobile - contain.
 
 ## Links
 
@@ -27,6 +28,8 @@ This is a solution to the Huddle landing page with a single introductory section
 ## Useful resources
 
 * https://ionic.io/ionicons/
+* https://www.w3schools.com/cssref/css3_pr_background-size.php
+* https://www.w3schools.com/cssref/playdemo.php?filename=playcss_background-size&preval=cover
 
 ## Acknowledgements
 
