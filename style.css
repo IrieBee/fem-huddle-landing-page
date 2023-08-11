@@ -3,6 +3,7 @@
     --clr-magenta: hsl(300, 69%, 71%);
 
     --clr-violet-dark: hsl(257, 40%, 19%);
+    --clr-white-transparent: hsla(0, 100%, 100%, 0.4);
 
     --ff-accent: 'Poppins', sans-serif;
     --ff-main:'Open Sans', sans-serif;
@@ -80,9 +81,12 @@ button {
 }
 
 ion-icon {
+    color: white;
     font-size: var(--fs-l);
-    border: .05em solid white;
+    outline: .07em solid var(--clr-white-transparent);
+    outline-offset: 0.1em;
     border-radius: 50%;
+    margin-left: .5em;
 }
 
 button:hover, ion-icon:hover {
@@ -91,7 +95,7 @@ button:hover, ion-icon:hover {
 }
 
 ion-icon:hover {
-    border: 0.05em solid var(--clr-magenta);
+    outline: .07em solid var(--clr-magenta);
 }
 
 .attribution { 
