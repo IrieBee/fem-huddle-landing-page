@@ -2,8 +2,8 @@
     --clr-violet: hsl(257, 40%, 49%);
     --clr-magenta: hsl(300, 69%, 71%);
 
-    --ff-main: 'Poppins', sans-serif;
-    --ff-accent: font-family: 'Open Sans', sans-serif;
+    --ff-accent: 'Poppins', sans-serif;
+    --ff-main:'Open Sans', sans-serif;
 
     --fs-m: 1rem;
     --fs-s: 0.75rem;
@@ -17,4 +17,34 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+body {
+    background: url(images/bg-desktop.svg) no-repeat;
+    background-color: var(--clr-violet);
+    color: white;
+    padding: 2em 2em 0;
+    font-family: var(--ff-main);
+}
+
+header {
+    margin-bottom: 4em;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    gap: 2.5em;
+    max-width: 90%;
+}
+
+h1 {
+    font-family: var(--ff-accent);
+    font-size: var(--fs-l);
+}
+
+p {
+    line-height: 1.5;
+    letter-spacing: 0.025em;
+    padding: 1em 0;
 }
