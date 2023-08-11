@@ -61,3 +61,13 @@ button {
     border-style: none;
     box-shadow: 0.1em 0.1em 0.75em var(--clr-violet-dark);
 }
+
+.attribution { 
+    font-size: 0.625rem; 
+    margin-bottom: 0.5em;
+    color: white;
+}
+
+.attribution a {
+    color: var(--clr-magenta); 
+}
