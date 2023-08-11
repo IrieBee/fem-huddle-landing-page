@@ -16,9 +16,11 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ### What I learned
 
-* Ionic for social media icons.
+* Ionic for social media icons. Need to add link at the end of html.
 * Position: absolute for social media icons.
 * Background-size. For desktop used cover, for mobile - contain.
+* Outline with offset for media icons.
+* Transition: duration for hover.
 
 ## Links
 
