@@ -6,7 +6,7 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ### Screenshot
 
-![screenshot](https://github.com/ltsyBitsy/fem-huddle-landing-page/blob/main/images/screenshot.jpg)
+![screenshot](https://github.com/IrieBee/fem-huddle-landing-page/blob/main/images/screenshot.jpg)
 
 ## Built with
 
@@ -25,8 +25,8 @@ This is a solution to the Huddle landing page with a single introductory section
 
 ## Links
 
-* Solution URL: https://github.com/ltsyBitsy/fem-huddle-landing-page
-* Live Site URL: https://ltsybitsy.github.io/fem-huddle-landing-page/
+* Solution URL: https://github.com/IrieBee/fem-huddle-landing-page
+* Live Site URL: https://IrieBee.github.io/fem-huddle-landing-page/
 
 ## Useful resources
 
